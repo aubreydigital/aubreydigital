@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aubreydigital
 - 👀 I’m interested in React web and mobile development
-- 🌱 I’m currently learning JavaScript, Solidity(Web 3.0), Python, Tailwind CSS, Next.Js
+- 🌱 I’m currently learning JavaScript, PHP, Python, and Node.JS
 - 💞️ I’m looking to collaborate on everything I can!
 - 📫 How to reach me - send me a message on here !
 

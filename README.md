@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aubreydigital
 - 👀 I’m certified in React and am currently a full time
 - student persuing my bachelor's degree in computer science
-- 🌱 I’m spend many hours learning Python, PHP, and most notably JavaScript. I currently build web applications with Next.js and Typescript.
+- 🌱 I’ve spent many hours learning Python, PHP, and most notably JavaScript. I currently build web applications with Next.js and Typescript.
 - 💞️ I’m looking to collaborate on everything I can!
 - 📫 Ways to reach me:
 -                     admin@aubrey.digital	

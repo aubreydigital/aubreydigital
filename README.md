@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @aubreydigital
-- 👀 I’m interested in React web and mobile development
-- 🌱 I’m currently learning JavaScript, PHP, Python, and Node.JS
+- 👀 I’m certified in React and am currently a full time
+- student persuing my bachelor's degree in computer science
+- 🌱 I’m spend many hours learning Python, PHP, and most notably JavaScript. I currently build web applications with Next.js and Typescript.
 - 💞️ I’m looking to collaborate on everything I can!
-- 📫 How to reach me - send me a message on here !
+- 📫 Ways to reach me:
+-                     admin@aubrey.digital	
+-                     @aubreydigitallv on IG
+-                     @aubreydigitallv on tiktok
+-                     @aubreydigital on twitter
 
-<!---
-aubreydigital/aubreydigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
